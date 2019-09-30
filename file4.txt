@@ -1,1 +1,2 @@
 This is file for master
+This line is added from master.
