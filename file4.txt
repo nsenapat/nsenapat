@@ -1,2 +1,3 @@
 This is file for master
+This line is from feature3
 This line is added from master.
